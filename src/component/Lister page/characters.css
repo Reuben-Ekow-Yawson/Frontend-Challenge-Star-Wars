@@ -1,0 +1,30 @@
+.cardContainer {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 25px;
+  border: 2px;
+  gap: 25px;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+.container-card {
+  width: 30%;
+}
+
+.pages {
+  justify-content: center;
+}
+
+.character-container {
+  margin-top: 65px;
+}
+.character-container input {
+  font-size: 24px;
+  outline: dashed 1px rgb(200, 199, 199);
+  text-align: center;
+  margin-left: 40%;
+  margin-right: 40%;
+  box-shadow: 0.5px 3px 5px rgba(0, 0, 0.1, 0.2);
+  border-radius: 5px;
+}
